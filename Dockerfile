@@ -2,7 +2,7 @@
 #
 # NetBox-Community-Image + Plugins.
 # Den Tag unten hält Renovate automatisch auf dem neuesten NetBox-Release.
-FROM ghcr.io/netbox-community/netbox:v4.5.9
+FROM ghcr.io/netbox-community/netbox:v4.7.5
 
 # Plugins installieren (nur wenn plugin_requirements.txt echte Einträge enthält)
 COPY plugin_requirements.txt /opt/netbox/plugin_requirements.txt
