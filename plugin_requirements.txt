@@ -1,0 +1,8 @@
+# Ein Plugin pro Zeile, immer mit exakter Version (==).
+# Renovate hebt die Versionen automatisch an.
+# Achtung: pip-Name (mit Bindestrich) != Modulname (mit Unterstrich, siehe configuration/plugins.py)
+#
+# Beispiele – Version vorher in der Kompatibilitätsmatrix des Plugins prüfen:
+# netbox-bgp==<version>
+# netbox-topology-views==<version>
+netbox-plugin-dns==1.7.3
