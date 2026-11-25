@@ -5,4 +5,4 @@
 # Beispiele – Version vorher in der Kompatibilitätsmatrix des Plugins prüfen:
 # netbox-bgp==<version>
 # netbox-topology-views==<version>
-netbox-plugin-dns==1.7.3
+netbox-plugin-dns==1.7.4
